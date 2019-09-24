@@ -1,0 +1,24 @@
+.container {
+	display: flex;
+	justify-content: center;
+	position: relative;
+	
+}
+.centered {
+	position: absolute;
+	top: 30%;
+	left: 47%;
+	transform: translate(-50%, -50%);
+	color: #17306D;
+	font-weight: bold;
+	font-size: 200%;
+	font-family: 'Manjari', sans-serif;
+}
+
+.button1 {
+	position: absolute;
+	top: 75%;
+	left: 47%;
+	transform: translate(-50%, -50%);
+}
+
